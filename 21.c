@@ -4,6 +4,12 @@ int Fibonacci(int);
  
 int main()
 {
+ 
+ 
+ 
+ 
+ 
+ 
    int n, i = 0, c;
  
    scanf("%d",&n);
