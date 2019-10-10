@@ -26,6 +26,8 @@
 
 int main(int argc, char **argv)
 {
+	
+	
 	int i,j,n,f=0;
 	scanf("%d",&n);
 	int b[n];
@@ -42,7 +44,10 @@ int main(int argc, char **argv)
 				f=f+1;
 			}
 		}
-	}
+	
+	
+		    	
+		    }
 	printf(" %d ",f);
 	return 0;
 }
