@@ -1,6 +1,10 @@
 #include <stdio.h>
 int main()
 {
+   
+   
+   
+   
    int* pc, n;
    
    n = 22;
@@ -19,4 +23,7 @@ int main()
    printf("Address of c: %u\n", &n);
    printf("Value of c: %d\n\n", n);
    return 0;
+
+
+
 }
