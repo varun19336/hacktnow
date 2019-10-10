@@ -36,7 +36,8 @@ int main(int argc, char **argv)
 int fib(int m){
 	if(m==0){
 return m=0;
-}
+
+	}
 else{
 	return fib(m-1)+fib(m-2);
 }
