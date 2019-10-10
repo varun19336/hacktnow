@@ -5,6 +5,9 @@ int main()
    
    
    
+   
+   
+   
    int* pc, n;
    
    n = 22;
