@@ -26,10 +26,12 @@
 int fib(int);
 int main(int argc, char **argv)
 {
+	
 	int n,f;
 	scanf ("%d",&m);
 	f=fib(m);
 	printf("%d",f);
+
 }
 int fib(int m){
 	if(m==0){
@@ -38,5 +40,7 @@ return m=0;
 else{
 	return fib(m-1)+fib(m-2);
 }
+
+
 }
 
